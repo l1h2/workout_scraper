@@ -1,0 +1,6 @@
+# Local config
+.env
+
+# Data files
+*.json
+*.gif
